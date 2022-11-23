@@ -1,4 +1,4 @@
-project_name: selefra-provider-alicloud
+project_name: selefra-provider-datadog
 before:
   hooks:
     - go mod tidy
